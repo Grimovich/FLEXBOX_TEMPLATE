@@ -1,3 +1,4 @@
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 html {
   line-height: 1.15;
 
@@ -420,8 +421,8 @@ body {
   transition: opacity 1s ease 0s;
 
   opacity: 1;
-  background-color: #d8b036;
-  background-image: url(../img/global-bg.jpg);
+  background-color: #5883ad;
+  background-image: url(../img/global-bg1.jpg);
   background-attachment: fixed;
   background-position: top center;
   background-size: cover;
@@ -489,7 +490,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #e12727;
+  color: #ffcdb5;
 }
 
 p {
@@ -568,12 +569,12 @@ p {
 }
 .header-menu__list-item a:hover,
 .header-menu__list-item a:focus {
-  color: #bb1a1a;
+  color: #ffe1b5;
   background-color: rgba(0, 0, 0, 0.4);
   text-shadow: 1px 1px 3px #000000, 1px 1px 10px #000000;
 }
 .header-menu__list-item.active a {
-  color: #bb1a1a;
+  color: #ffe1b5;
   background: rgba(0, 0, 0, 0.4);
   text-shadow: 1px 1px 3px #000000, 1px 1px 10px #000000;
 }
@@ -757,7 +758,7 @@ p {
   background: rgba(0, 0, 0, 0.75);
 }
 .main-content-item:hover h3 {
-  color: #e12727;
+  color: #ffcdb5;
   background: rgba(0, 0, 0, 0.75);
 }
 
